@@ -27,3 +27,12 @@ Execute os testes com:
 npm test
 ```
 
+### Observações
+Para utilizar uma outra chave de api do google maps vá ate:
+```sh
+android/app/src/main/AndroidManifest.xml
+```
+e altere: 
+```sh
+android:value="Your Google maps API Key Here"/>
+```
