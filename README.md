@@ -22,3 +22,8 @@ ou
 react-native run-ios
 ```
 
+Execute os testes com:
+```sh
+npm test
+```
+
